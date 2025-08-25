@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jianhanlim.github.io/about/sitemap.xml
+Sitemap: https://jianhanlim.github.io/sitemap.xml
